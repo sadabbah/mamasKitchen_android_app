@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "825077082791",
+    "firebase_url": "https://mamaskitchen-5e557.firebaseio.com",
+    "project_id": "mamaskitchen-5e557",
+    "storage_bucket": "mamaskitchen-5e557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825077082791:android:35b631660269cd73",
+        "android_client_info": {
+          "package_name": "com.example.saeedaldabbah.mamaskitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825077082791-fddv70nef0bfqrsbc1j6vl2f1l6mjjl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saeedaldabbah.mamaskitchen",
+            "certificate_hash": "48f93c106e69e932c8f0a1ac1114ab2918349c26"
+          }
+        },
+        {
+          "client_id": "825077082791-dobjihod54gu6aesne03oludtt28e7m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSOswsuK2Tx4agUQiFloIWRrPDvnaZ6a4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825077082791-dobjihod54gu6aesne03oludtt28e7m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">مطبخ أم سالم</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="sign_out">خروج</string>
+    <string name="register">تسجيل جديد</string>
+    <string name="user_name">إسم المستخدم</string>
+    <string name="sign_up">سجل</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="password_confirm">تأكيد كلمة السر</string>
+</resources>
